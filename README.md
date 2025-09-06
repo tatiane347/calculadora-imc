@@ -6,6 +6,7 @@ Uma calculadora de IMC simples e funcional, desenvolvida com HTML, CSS e JavaScr
 
 ![Captura de tela da Calculadora de IMC](https://imgur.com/dt56130.png)
 https://imgur.com/dt56130.png' pelo link direto da sua imagem hospedada)*
+ACESSE O lINK dO pROJETO:https://codepen.io/tatiane-nascimento/full/ZYbqZGZ
 
 ## Sobre o Desenvolvedor
 
